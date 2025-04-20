@@ -1,0 +1,16 @@
+[
+  {
+    "title": "harry potter",
+    "author": "J.K.Rowling",
+    "year": "1997",
+    "genre": "Fiction",
+    "read": false
+  },
+  {
+    "title": "",
+    "author": "",
+    "year": "",
+    "genre": "",
+    "read": false
+  }
+]
